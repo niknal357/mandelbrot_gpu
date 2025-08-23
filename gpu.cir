@@ -4,7 +4,7 @@ UUID: 423757d0-92d3-4143-9516-56fa2dc2e41e
 size: 1x1
 ports:
 blockId 387 AND 13 22 ZERO
-	(connId:0) (11220 1) (10939 1)
+	(connId:0) (11220 1)
 	(connId:1) (5301 0)
 blockId 4 AND -1 15 ZERO
 	(connId:0) (11212 1)
@@ -16,7 +16,7 @@ blockId 9 AND 3 15 ZERO
 	(connId:0) (11152 1)
 	(connId:1) (5206 0)
 blockId 11 AND -1 16 ZERO
-	(connId:0) (11981 1) (12465 1)
+	(connId:0) (12465 1)
 	(connId:1) (5251 0)
 blockId 14 AND 3 23 ZERO
 	(connId:0) (11350 1)
@@ -34,19 +34,19 @@ blockId 403 AND 14 19 ZERO
 	(connId:0) (12003 1)
 	(connId:1) (5272 0)
 blockId 900 AND 2 20 ZERO
-	(connId:0) (12102 1) (12350 1)
+	(connId:0) (12350 1)
 	(connId:1) (5265 0)
 blockId 904 AND 2 21 ZERO
 	(connId:0) (12286 1)
 	(connId:1) (5275 0)
 blockId 1423 AND 14 28 ZERO
-	(connId:0) (11420 1) (10743 1)
+	(connId:0) (10743 1)
 	(connId:1) (5405 0)
 blockId 30 AND -1 18 ZERO
-	(connId:0) (11848 1) (11775 1)
+	(connId:0) (11848 1)
 	(connId:1) (5271 0)
 blockId 728 AND 2 24 ZERO
-	(connId:0) (12143 1) (11407 1)
+	(connId:0) (12143 1)
 	(connId:1) (5308 0)
 blockId 34 AND 0 15 ZERO
 	(connId:0) (11200 1)
@@ -70,10 +70,10 @@ blockId 17405 XOR 200 179 ZERO
 	(connId:0) (17782 1) (21719 1)
 	(connId:1) (17754 0)
 blockId 44 AND 0 16 ZERO
-	(connId:0) (12461 1) (11969 1)
+	(connId:0) (12461 1)
 	(connId:1) (5249 0)
 blockId 47 AND 3 26 ZERO
-	(connId:0) (10652 1) (12024 1)
+	(connId:0) (12024 1)
 	(connId:1) (5393 0)
 blockId 48 AND 0 17 ZERO
 	(connId:0) (11162 1)
@@ -91,7 +91,7 @@ blockId 52 AND 3 25 ZERO
 	(connId:0) (11300 1)
 	(connId:1) (5374 0)
 blockId 1044 AND 7 24 ZERO
-	(connId:0) (10555 1) (11175 1)
+	(connId:0) (10555 1)
 	(connId:1) (5364 0)
 blockId 20050 AND 200 156 ZERO
 	(connId:0) (20161 1) (21309 1) (19650 1)
@@ -103,7 +103,7 @@ blockId 18723 XOR 225 155 ZERO
 	(connId:0) (18569 1) (21719 1)
 	(connId:1) (18349 0)
 blockId 60 AND 0 18 ZERO
-	(connId:0) (11836 1) (11763 1)
+	(connId:0) (11836 1)
 	(connId:1) (5241 0)
 blockId 64 AND 1 15 ZERO
 	(connId:0) (11140 1)
@@ -120,19 +120,19 @@ blockId 1118 AND 8 30 ZERO
 	(connId:0) (10621 1)
 	(connId:1) (5420 0)
 blockId 66 AND 7 22 ZERO
-	(connId:0) (12264 1) (12060 1)
+	(connId:0) (12264 1)
 	(connId:1) (5315 0)
 blockId 1012 AND 6 18 ZERO
-	(connId:0) (12400 1) (12144 1)
+	(connId:0) (12400 1)
 	(connId:1) (5209 0)
 blockId 70 AND 7 21 ZERO
 	(connId:0) (12295 1)
 	(connId:1) (5213 0)
 blockId 74 AND 1 16 ZERO
-	(connId:0) (11336 1) (12445 1)
+	(connId:0) (12445 1)
 	(connId:1) (5247 0)
 blockId 479 AND 4 20 ZERO
-	(connId:0) (11281 1) (12319 1)
+	(connId:0) (12319 1)
 	(connId:1) (5260 0)
 blockId 1196 AND 10 23 ZERO
 	(connId:0) (12182 1)
@@ -149,7 +149,7 @@ blockId 964 AND 4 23 ZERO
 blockId 2867 SWITCH -50 34 ZERO
 	(connId:0) (4695 0)
 blockId 86 AND 4 26 ZERO
-	(connId:0) (12017 1) (10662 1)
+	(connId:0) (12017 1)
 	(connId:1) (5222 0)
 blockId 4038 AND -13 33 ONE_EIGHTY_FLIPPED
 	(connId:0) (4734 1) (12472 1)
@@ -158,13 +158,13 @@ blockId 813 AND 6 30 ZERO
 	(connId:0) (10613 1)
 	(connId:1) (5422 0)
 blockId 92 AND 1 18 ZERO
-	(connId:0) (12127 1) (11800 1)
+	(connId:0) (11800 1)
 	(connId:1) (5235 0)
 blockId 93 AND 13 25 ZERO
 	(connId:0) (11674 1)
 	(connId:1) (5371 0)
 blockId 912 AND 2 28 ZERO
-	(connId:0) (11398 1) (10644 1)
+	(connId:0) (10644 1)
 	(connId:1) (5385 0)
 blockId 97 AND 2 15 ZERO
 	(connId:0) (12501 1)
@@ -173,7 +173,7 @@ blockId 3483 AND 1 52 ZERO
 	(connId:0) (4721 1) (11140 1)
 	(connId:1) (12647 0)
 blockId 920 AND 8 24 ZERO
-	(connId:0) (11157 1) (10564 1)
+	(connId:0) (10564 1)
 	(connId:1) (5363 0)
 blockId 924 AND 8 25 ZERO
 	(connId:0) (12089 1)
@@ -188,10 +188,10 @@ blockId 1102 AND 8 27 ZERO
 	(connId:0) (11157 1)
 	(connId:1) (5402 0)
 blockId 115 AND 2 16 ZERO
-	(connId:0) (12180 1) (12474 1)
+	(connId:0) (12474 1)
 	(connId:1) (5195 0)
 blockId 996 AND 5 26 ZERO
-	(connId:0) (12057 1) (11842 1)
+	(connId:0) (12057 1)
 	(connId:1) (5218 0)
 blockId 118 AND 2 17 ZERO
 	(connId:0) (12426 1)
@@ -212,7 +212,7 @@ blockId 15434 XOR 100 67 ZERO
 	(connId:0) (14434 1) (14421 1) (15271 1) (15121 1) (14494 1) (15350 1) (15119 1) (14436 1) (15133 1) (14473 1) (14321 1) (14485 1) (15260 1) (14709 1) (14892 1) (14739 1) (14537 1) (15374 1) (15255 1) (15451 1) (14704 1) (15452 1) (15278 1) (14415 1) (14803 1) (15453 1) (14982 1) (14673 1) (14533 1) (15330 1) (14463 1) (14390 1) (15053 1) (14671 1) (14460 1) (15401 1) (14379 1) (15336 1) (15022 1) (14551 1) (14680 1) (14381 1) (15458 1) (14443 1) (15081 1) (14612 1) (15463 1) (14433 1) (15343 1) (15492 1) (14743 1) (14986 1) (14576 1) (14355 1) (14596 1) (14356 1) (15337 1) (15269 1) (15120 1) (15065 1) (15449 1) (15259 1) (14430 1) (14502 1) (15058 1) (14428 1) (14303 1) (15400 1) (14429 1) (14718 1) (14947 1) (14414 1) (14472 1) (14724 1) (14456 1) (15198 1) (14318 1) (14492 1) (15168 1) (15061 1) (15059 1) (15332 1) (14405 1) (15334 1) (14520 1) (15117 1) (14682 1) (14992 1) (15122 1) (14535 1) (14542 1) (14550 1) (14539 1) (14723 1) (15373 1) (15448 1) (15371 1) (14541 1) (15056 1) (14383 1) (15068 1) (14368 1) (14679 1) (15394 1) (14655 1) (15055 1) (15276 1) (15124 1) (14600 1) (14501 1) (14374 1) (15054 1) (15397 1) (15256 1) (15494 1) (14438 1) (15378 1) (14364 1) (15457 1) (15169 1) (15257 1) (14392 1) (14893 1) (15206 1) (14393 1) (15454 1) (14945 1) (14398 1) (14599 1) (14708 1) (15018 1) (14595 1) (14304 1) (14690 1) (14683 1) (15352 1) (15170 1) (15082 1) (15060 1) (14440 1) (15471 1) (15201 1) (14441 1) (14519 1) (15345 1) (14711 1) (14352 1) (15254 1) (14516 1) (15469 1) (15493 1) (14426 1) (14993 1) (14437 1) (14820 1) (15341 1) (14500 1) (15264 1) (14841 1) (15395 1) (15346 1) (15396 1) (14981 1) (14563 1) (15062 1) (14412 1) (15393 1) (14938 1) (15342 1) (14552 1) (15045 1) (15020 1) (14465 1) (14935 1) (15000 1) (14939 1) (15465 1) (15084 1) (14528 1) (15086 1) (14821 1) (14529 1) (14342 1) (15377 1) (15137 1) (14676 1) (15455 1) (15339 1) (14376 1) (15063 1) (15272 1) (14395 1) (14987 1) (14406 1) (15203 1) (14371 1) (14740 1) (14692 1)
 	(connId:1) (15411 0)
 blockId 127 AND 2 18 ZERO
-	(connId:0) (12143 1) (12399 1)
+	(connId:0) (12399 1)
 	(connId:1) (5269 0)
 blockId 785 AND 12 27 ZERO
 	(connId:0) (11066 1)
@@ -224,40 +224,40 @@ blockId 132 AND 4 25 ZERO
 	(connId:0) (11281 1)
 	(connId:1) (5328 0)
 blockId 1300 AND 12 18 ZERO
-	(connId:0) (10583 1) (11820 1)
+	(connId:0) (11820 1)
 	(connId:1) (5261 0)
 blockId 793 AND 5 28 ZERO
-	(connId:0) (11113 1) (11842 1)
+	(connId:0) (11842 1)
 	(connId:1) (5377 0)
 blockId 140 AND 5 17 ZERO
 	(connId:0) (11206 1)
 	(connId:1) (5179 0)
 blockId 142 AND 7 16 ZERO
-	(connId:0) (12472 1) (12177 1)
+	(connId:0) (12472 1)
 	(connId:1) (5238 0)
 blockId 143 AND 5 25 ZERO
 	(connId:0) (12093 1)
 	(connId:1) (5335 0)
 blockId 1159 AND 9 26 ZERO
-	(connId:0) (11802 1) (12039 1)
+	(connId:0) (12039 1)
 	(connId:1) (5388 0)
 blockId 150 AND 5 18 ZERO
-	(connId:0) (11996 1) (11787 1)
+	(connId:0) (11996 1)
 	(connId:1) (5224 0)
 blockId 153 AND 7 17 ZERO
 	(connId:0) (11213 1)
 	(connId:1) (5227 0)
 blockId 158 AND 5 16 ZERO
-	(connId:0) (12171 1) (12469 1)
+	(connId:0) (12469 1)
 	(connId:1) (5189 0)
 blockId 976 AND 5 15 ZERO
 	(connId:0) (11959 1)
 	(connId:1) (5198 0)
 blockId 162 AND 7 18 ZERO
-	(connId:0) (10555 1) (11999 1)
+	(connId:0) (11999 1)
 	(connId:1) (5205 0)
 blockId 821 AND -1 20 ZERO
-	(connId:0) (12341 1) (11377 1)
+	(connId:0) (12341 1)
 	(connId:1) (5204 0)
 blockId 169 AND 8 15 ZERO
 	(connId:0) (11957 1)
@@ -269,7 +269,7 @@ blockId 298 AND 7 25 ZERO
 	(connId:0) (12099 1)
 	(connId:1) (5358 0)
 blockId 308 AND 11 22 ZERO
-	(connId:0) (12268 1) (12043 1)
+	(connId:0) (12268 1)
 	(connId:1) (5307 0)
 blockId 302 AND -16 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (4573 1) (11073 1)
@@ -278,34 +278,34 @@ blockId 1113 AND 8 29 ZERO
 	(connId:0) (11105 1)
 	(connId:1) (5412 0)
 blockId 183 AND 8 16 ZERO
-	(connId:0) (12167 1) (12467 1)
+	(connId:0) (12467 1)
 	(connId:1) (5234 0)
 blockId 777 AND 12 24 ZERO
-	(connId:0) (10583 1) (11066 1)
+	(connId:0) (10583 1)
 	(connId:1) (5357 0)
 blockId 781 AND 12 26 ZERO
-	(connId:0) (11796 1) (12036 1)
+	(connId:0) (12036 1)
 	(connId:1) (5381 0)
 blockId 188 AND 8 17 ZERO
 	(connId:0) (11202 1)
 	(connId:1) (5220 0)
 blockId 1366 AND 13 26 ZERO
-	(connId:0) (10939 1) (10730 1)
+	(connId:0) (10939 1)
 	(connId:1) (5378 0)
 blockId 324 AND 12 19 ZERO
 	(connId:0) (12387 1)
 	(connId:1) (5240 0)
 blockId 1271 AND 11 28 ZERO
-	(connId:0) (11045 1) (11812 1)
+	(connId:0) (11812 1)
 	(connId:1) (5353 0)
 blockId 195 AND 8 18 ZERO
-	(connId:0) (10564 1) (11994 1)
+	(connId:0) (11994 1)
 	(connId:1) (5199 0)
 blockId 1279 AND -12 44 ONE_EIGHTY_FLIPPED
 	(connId:0) (4645 1) (11157 1)
 	(connId:1) (12742 0)
 blockId 203 AND 6 16 ZERO
-	(connId:0) (12181 1) (12475 1)
+	(connId:0) (12475 1)
 	(connId:1) (5244 0)
 blockId 861 AND 0 29 ZERO
 	(connId:0) (11050 1)
@@ -323,10 +323,10 @@ blockId 207 AND 9 15 ZERO
 	(connId:0) (11188 1)
 	(connId:1) (5190 0)
 blockId 211 AND 9 16 ZERO
-	(connId:0) (11391 1) (12456 1)
+	(connId:0) (12456 1)
 	(connId:1) (5233 0)
 blockId 328 AND 12 20 ZERO
-	(connId:0) (12330 1) (11331 1)
+	(connId:0) (12330 1)
 	(connId:1) (5211 0)
 blockId 338 AND 7 27 ZERO
 	(connId:0) (11175 1)
@@ -341,10 +341,10 @@ blockId 1398 AND 14 17 ZERO
 	(connId:0) (11516 1)
 	(connId:1) (5253 0)
 blockId 226 AND 9 18 ZERO
-	(connId:0) (11825 1) (10575 1)
+	(connId:0) (11825 1)
 	(connId:1) (5196 0)
 blockId 356 AND 12 22 ZERO
-	(connId:0) (12269 1) (12036 1)
+	(connId:0) (12269 1)
 	(connId:1) (5304 0)
 blockId 1406 AND 14 23 ZERO
 	(connId:0) (11721 1)
@@ -353,16 +353,16 @@ blockId 893 AND 1 29 ZERO
 	(connId:0) (11395 1)
 	(connId:1) (5414 0)
 blockId 1169 AND 9 28 ZERO
-	(connId:0) (11802 1) (11033 1)
+	(connId:0) (11802 1)
 	(connId:1) (5406 0)
 blockId 833 AND -1 28 ZERO
-	(connId:0) (10618 1) (11062 1)
+	(connId:0) (10618 1)
 	(connId:1) (5391 0)
 blockId 241 AND 6 24 ZERO
-	(connId:0) (12144 1) (11985 1)
+	(connId:0) (12144 1)
 	(connId:1) (5365 0)
 blockId 1350 AND 13 18 ZERO
-	(connId:0) (10793 1) (10977 1)
+	(connId:0) (10793 1)
 	(connId:1) (5258 0)
 blockId 17703 XOR 205 136 ZERO
 	(connId:0) (17703 1) (18003 1)
@@ -377,19 +377,19 @@ blockId 244 AND 10 15 ZERO
 	(connId:0) (12503 1)
 	(connId:1) (5181 0)
 blockId 245 AND 7 20 ZERO
-	(connId:0) (12099 1) (12348 1)
+	(connId:0) (12348 1)
 	(connId:1) (5176 0)
 blockId 1348 AND 13 17 ZERO
 	(connId:0) (11509 1)
 	(connId:1) (5246 0)
 blockId 249 AND 10 16 ZERO
-	(connId:0) (12182 1) (12476 1)
+	(connId:0) (12476 1)
 	(connId:1) (5231 0)
 blockId 1358 AND 13 23 ZERO
 	(connId:0) (11716 1)
 	(connId:1) (5336 0)
 blockId 1249 AND 11 24 ZERO
-	(connId:0) (11091 1) (10567 1)
+	(connId:0) (10567 1)
 	(connId:1) (5359 0)
 blockId 688 AND 5 29 ZERO
 	(connId:0) (11113 1)
@@ -398,7 +398,7 @@ blockId 259 AND 10 17 ZERO
 	(connId:0) (12428 1)
 	(connId:1) (5255 0)
 blockId 692 AND 1 24 ZERO
-	(connId:0) (11030 1) (12127 1)
+	(connId:0) (12127 1)
 	(connId:1) (5367 0)
 blockId 18341 AND 205 132 ZERO
 	(connId:0) (20476 1) (18653 1) (21297 1)
@@ -410,7 +410,7 @@ blockId 3766 AND 5 65 ZERO
 	(connId:0) (4618 1) (11842 1)
 	(connId:1) (12660 0)
 blockId 263 AND 10 18 ZERO
-	(connId:0) (12145 1) (12401 1)
+	(connId:0) (12401 1)
 	(connId:1) (5267 0)
 blockId 640 AND 0 23 ZERO
 	(connId:0) (11969 1)
@@ -422,7 +422,7 @@ blockId 3718 AND 1 53 ZERO
 	(connId:0) (4721 1) (12445 1)
 	(connId:1) (12648 0)
 blockId 285 AND 11 20 ZERO
-	(connId:0) (12335 1) (11352 1)
+	(connId:0) (12335 1)
 	(connId:1) (5214 0)
 blockId 17662 LIGHT 221 28 ONE_EIGHTY
 	(connId:0) (18317 1)
@@ -445,7 +445,7 @@ blockId 349 AND 12 21 ZERO
 	(connId:0) (12304 1)
 	(connId:1) (5200 0)
 blockId 353 AND 7 26 ZERO
-	(connId:0) (11849 1) (12060 1)
+	(connId:0) (12060 1)
 	(connId:1) (5392 0)
 blockId 359 AND 7 29 ZERO
 	(connId:0) (11127 1)
@@ -454,7 +454,7 @@ blockId 373 AND 13 19 ZERO
 	(connId:0) (12001 1)
 	(connId:1) (5274 0)
 blockId 375 AND 13 20 ZERO
-	(connId:0) (11674 1) (11278 1)
+	(connId:0) (11278 1)
 	(connId:1) (5286 0)
 blockId 383 AND 6 15 ZERO
 	(connId:0) (12502 1)
@@ -463,13 +463,13 @@ blockId 384 AND 13 21 ZERO
 	(connId:0) (11855 1)
 	(connId:1) (5197 0)
 blockId 533 AND 5 20 ZERO
-	(connId:0) (12093 1) (12345 1)
+	(connId:0) (12345 1)
 	(connId:1) (5257 0)
 blockId 398 AND -1 29 ZERO
 	(connId:0) (11062 1)
 	(connId:1) (5382 0)
 blockId 410 AND 14 20 ZERO
-	(connId:0) (11679 1) (11286 1)
+	(connId:0) (11286 1)
 	(connId:1) (5285 0)
 blockId 422 AND -16 37 ONE_EIGHTY_FLIPPED
 	(connId:0) (4573 1) (12319 1)
@@ -478,22 +478,22 @@ blockId 423 AND 14 21 ZERO
 	(connId:0) (11861 1)
 	(connId:1) (5294 0)
 blockId 426 AND 14 22 ZERO
-	(connId:0) (11228 1) (10944 1)
+	(connId:0) (11228 1)
 	(connId:1) (5299 0)
 blockId 1247 AND 11 23 ZERO
 	(connId:0) (11399 1)
 	(connId:1) (5332 0)
 blockId 442 AND 3 20 ZERO
-	(connId:0) (11300 1) (12324 1)
+	(connId:0) (12324 1)
 	(connId:1) (5292 0)
 blockId 601 AND -1 23 ZERO
 	(connId:0) (11981 1)
 	(connId:1) (5354 0)
 blockId 464 AND 3 22 ZERO
-	(connId:0) (12260 1) (12024 1)
+	(connId:0) (12260 1)
 	(connId:1) (5323 0)
 blockId 681 AND 0 28 ZERO
-	(connId:0) (11050 1) (10624 1)
+	(connId:0) (10624 1)
 	(connId:1) (5345 0)
 blockId 474 AND 4 19 ZERO
 	(connId:0) (12373 1)
@@ -505,7 +505,7 @@ blockId 585 AND 0 19 ZERO
 	(connId:0) (12366 1)
 	(connId:1) (5228 0)
 blockId 514 AND 4 22 ZERO
-	(connId:0) (12017 1) (12261 1)
+	(connId:0) (12261 1)
 	(connId:1) (5322 0)
 blockId 531 AND 5 19 ZERO
 	(connId:0) (12375 1)
@@ -516,7 +516,7 @@ blockId 22842 XOR 215 178 ZERO
 blockId 17589 LIGHT 220 32 ONE_EIGHTY
 	(connId:0) (17620 1)
 blockId 535 AND -1 22 ZERO
-	(connId:0) (12053 1) (12256 1)
+	(connId:0) (12256 1)
 	(connId:1) (5333 0)
 blockId 3979 AND 13 54 ZERO
 	(connId:0) (4628 1) (11509 1)
@@ -528,7 +528,7 @@ blockId 1216 AND 10 27 ZERO
 	(connId:0) (11986 1)
 	(connId:1) (5243 0)
 blockId 550 AND 5 22 ZERO
-	(connId:0) (12057 1) (12262 1)
+	(connId:0) (12262 1)
 	(connId:1) (5319 0)
 blockId 1224 AND 10 29 ZERO
 	(connId:0) (11408 1)
@@ -546,7 +546,7 @@ blockId 3494 AND -20 33 ONE_EIGHTY_FLIPPED
 	(connId:0) (12461 1) (4729 1)
 	(connId:1) (12728 0)
 blockId 571 AND 6 20 ZERO
-	(connId:0) (12103 1) (12351 1)
+	(connId:0) (12351 1)
 	(connId:1) (5180 0)
 blockId 4093 AND -21 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10618 1) (4731 1)
@@ -558,13 +558,13 @@ blockId 583 AND 6 21 ZERO
 	(connId:0) (12293 1)
 	(connId:1) (5287 0)
 blockId 586 AND 6 22 ZERO
-	(connId:0) (12058 1) (12263 1)
+	(connId:0) (12263 1)
 	(connId:1) (5317 0)
 blockId 16325 AND 85 58 ZERO
 	(connId:0) (16967 1) (16445 1)
 	(connId:1) (16821 0)
 blockId 608 AND -1 24 ZERO
-	(connId:0) (11123 1) (11775 1)
+	(connId:0) (11775 1)
 	(connId:1) (5314 0)
 blockId 3997 JUNCTION -48 45 ZERO
 	(connId:0) (4709 0)
@@ -585,7 +585,7 @@ blockId 624 AND -1 30 ZERO
 	(connId:0) (10551 1)
 	(connId:1) (5429 0)
 blockId 627 AND -1 26 ZERO
-	(connId:0) (10618 1) (12053 1)
+	(connId:0) (12053 1)
 	(connId:1) (5237 0)
 blockId 22810 AND 178 72 ZERO
 	(connId:0) (18289 1) (23180 1) (18431 1)
@@ -594,13 +594,13 @@ blockId 17557 XOR 202 74 ZERO
 	(connId:0) (25418 1) (21719 1)
 	(connId:1) (25336 0)
 blockId 631 AND 0 22 ZERO
-	(connId:0) (12257 1) (12046 1)
+	(connId:0) (12257 1)
 	(connId:1) (5330 0)
 blockId 638 AND 0 30 ZERO
 	(connId:0) (10560 1)
 	(connId:1) (5428 0)
 blockId 641 AND 0 24 ZERO
-	(connId:0) (11100 1) (11763 1)
+	(connId:0) (11763 1)
 	(connId:1) (5369 0)
 blockId 649 AND 0 21 ZERO
 	(connId:0) (12283 1)
@@ -621,7 +621,7 @@ blockId 3938 AND -18 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (4732 1) (12143 1)
 	(connId:1) (12739 0)
 blockId 671 AND 0 26 ZERO
-	(connId:0) (12046 1) (10624 1)
+	(connId:0) (12046 1)
 	(connId:1) (5397 0)
 blockId 17605 LIGHT 211 25 ONE_EIGHTY
 	(connId:0) (26567 1)
@@ -632,13 +632,13 @@ blockId 690 AND 1 23 ZERO
 	(connId:0) (11336 1)
 	(connId:1) (5351 0)
 blockId 694 AND 1 28 ZERO
-	(connId:0) (10633 1) (11395 1)
+	(connId:0) (10633 1)
 	(connId:1) (5409 0)
 blockId 701 AND 1 25 ZERO
 	(connId:0) (11289 1)
 	(connId:1) (5375 0)
 blockId 707 AND 1 26 ZERO
-	(connId:0) (10633 1) (12019 1)
+	(connId:0) (12019 1)
 	(connId:1) (5394 0)
 blockId 3928 AND -14 42 ONE_EIGHTY_FLIPPED
 	(connId:0) (12103 1) (4730 1)
@@ -656,7 +656,7 @@ blockId 735 AND 2 25 ZERO
 	(connId:0) (12102 1)
 	(connId:1) (5338 0)
 blockId 739 AND 2 26 ZERO
-	(connId:0) (10644 1) (12055 1)
+	(connId:0) (12055 1)
 	(connId:1) (5230 0)
 blockId 17698 XOR 218 127 ZERO
 	(connId:0) (17698 1) (25269 1)
@@ -677,7 +677,7 @@ blockId 759 AND 2 27 ZERO
 	(connId:0) (11407 1)
 	(connId:1) (5254 0)
 blockId 762 AND 3 28 ZERO
-	(connId:0) (11403 1) (10652 1)
+	(connId:0) (10652 1)
 	(connId:1) (5408 0)
 blockId 17619 LIGHT 221 59 ONE_EIGHTY
 	(connId:0) (22135 1)
@@ -700,10 +700,10 @@ blockId 778 AND 4 27 ZERO
 	(connId:0) (11021 1)
 	(connId:1) (5248 0)
 blockId 1210 AND 10 26 ZERO
-	(connId:0) (11949 1) (12063 1)
+	(connId:0) (12063 1)
 	(connId:1) (5387 0)
 blockId 780 AND 4 28 ZERO
-	(connId:0) (11386 1) (10662 1)
+	(connId:0) (10662 1)
 	(connId:1) (5380 0)
 blockId 786 AND 4 29 ZERO
 	(connId:0) (11386 1)
@@ -721,10 +721,10 @@ blockId 799 AND 5 30 ZERO
 	(connId:0) (10601 1)
 	(connId:1) (5423 0)
 blockId 803 AND 10 20 ZERO
-	(connId:0) (12352 1) (12104 1)
+	(connId:0) (12352 1)
 	(connId:1) (5288 0)
 blockId 808 AND 6 28 ZERO
-	(connId:0) (11406 1) (11948 1)
+	(connId:0) (11948 1)
 	(connId:1) (5337 0)
 blockId 18760 XOR 202 188 ZERO
 	(connId:0) (18600 1) (21719 1)
@@ -739,10 +739,10 @@ blockId 819 AND -1 19 ZERO
 	(connId:0) (12364 1)
 	(connId:1) (5284 0)
 blockId 834 AND 12 16 ZERO
-	(connId:0) (11382 1) (12454 1)
+	(connId:0) (12454 1)
 	(connId:1) (5223 0)
 blockId 846 AND 0 20 ZERO
-	(connId:0) (11359 1) (12337 1)
+	(connId:0) (12337 1)
 	(connId:1) (5201 0)
 blockId 851 AND 14 25 ZERO
 	(connId:0) (11679 1)
@@ -760,13 +760,13 @@ blockId 872 AND 13 15 ZERO
 	(connId:0) (12224 1)
 	(connId:1) (5178 0)
 blockId 874 AND 1 20 ZERO
-	(connId:0) (11289 1) (12321 1)
+	(connId:0) (12321 1)
 	(connId:1) (5293 0)
 blockId 878 AND 1 21 ZERO
 	(connId:0) (12285 1)
 	(connId:1) (5298 0)
 blockId 884 AND 1 22 ZERO
-	(connId:0) (12019 1) (12258 1)
+	(connId:0) (12258 1)
 	(connId:1) (5327 0)
 blockId 888 AND 1 27 ZERO
 	(connId:0) (11030 1)
@@ -775,10 +775,10 @@ blockId 898 AND 11 29 ZERO
 	(connId:0) (11045 1)
 	(connId:1) (5390 0)
 blockId 906 AND 2 22 ZERO
-	(connId:0) (12259 1) (12055 1)
+	(connId:0) (12259 1)
 	(connId:1) (5326 0)
 blockId 909 AND 14 16 ZERO
-	(connId:0) (11721 1) (10857 1)
+	(connId:0) (10857 1)
 	(connId:1) (5216 0)
 blockId 915 AND 2 29 ZERO
 	(connId:0) (11398 1)
@@ -793,28 +793,28 @@ blockId 918 AND 2 30 ZERO
 	(connId:0) (10599 1)
 	(connId:1) (5426 0)
 blockId 921 AND 3 16 ZERO
-	(connId:0) (11350 1) (12448 1)
+	(connId:0) (12448 1)
 	(connId:1) (5187 0)
 blockId 923 AND 3 17 ZERO
 	(connId:0) (11098 1)
 	(connId:1) (5175 0)
 blockId 927 AND 3 18 ZERO
-	(connId:0) (12132 1) (11810 1)
+	(connId:0) (11810 1)
 	(connId:1) (5268 0)
 blockId 1075 AND 8 20 ZERO
-	(connId:0) (12089 1) (12343 1)
+	(connId:0) (12343 1)
 	(connId:1) (5291 0)
 blockId 935 AND 3 24 ZERO
-	(connId:0) (12132 1) (11042 1)
+	(connId:0) (12132 1)
 	(connId:1) (5366 0)
 blockId 1242 AND 11 18 ZERO
-	(connId:0) (10567 1) (11832 1)
+	(connId:0) (11832 1)
 	(connId:1) (5264 0)
 blockId 943 AND 4 15 ZERO
 	(connId:0) (11133 1)
 	(connId:1) (5202 0)
 blockId 946 AND 4 16 ZERO
-	(connId:0) (11327 1) (12443 1)
+	(connId:0) (12443 1)
 	(connId:1) (5191 0)
 blockId 950 AND 4 17 ZERO
 	(connId:0) (11073 1)
@@ -823,7 +823,7 @@ blockId 1035 AND 10 30 ZERO
 	(connId:0) (10645 1)
 	(connId:1) (5418 0)
 blockId 958 AND 4 18 ZERO
-	(connId:0) (11794 1) (11944 1)
+	(connId:0) (11794 1)
 	(connId:1) (5229 0)
 blockId 15375 AND 64 69 ZERO
 	(connId:0) (14592 1) (14454 1) (14880 1)
@@ -832,7 +832,7 @@ blockId 967 AND 9 23 ZERO
 	(connId:0) (11391 1)
 	(connId:1) (5340 0)
 blockId 970 AND 4 24 ZERO
-	(connId:0) (11944 1) (11021 1)
+	(connId:0) (11944 1)
 	(connId:1) (5303 0)
 blockId 17418 LIGHT 204 32 ONE_EIGHTY
 	(connId:0) (19310 1)
@@ -840,19 +840,19 @@ blockId 987 AND 5 23 ZERO
 	(connId:0) (12171 1)
 	(connId:1) (5343 0)
 blockId 990 AND 5 24 ZERO
-	(connId:0) (11787 1) (11164 1)
+	(connId:0) (11787 1)
 	(connId:1) (5300 0)
 blockId 1341 AND 13 16 ZERO
-	(connId:0) (11716 1) (10850 1)
+	(connId:0) (10850 1)
 	(connId:1) (5219 0)
 blockId 1139 AND 9 22 ZERO
-	(connId:0) (12039 1) (12266 1)
+	(connId:0) (12266 1)
 	(connId:1) (5311 0)
 blockId 3704 AND -1 62 ZERO
 	(connId:0) (4159 1) (11377 1)
 	(connId:1) (12657 0)
 blockId 1003 AND 10 22 ZERO
-	(connId:0) (12063 1) (12267 1)
+	(connId:0) (12267 1)
 	(connId:1) (5310 0)
 blockId 1007 AND 6 17 ZERO
 	(connId:0) (12427 1)
@@ -867,7 +867,7 @@ blockId 1018 AND 6 25 ZERO
 	(connId:0) (12103 1)
 	(connId:1) (5360 0)
 blockId 1025 AND 6 26 ZERO
-	(connId:0) (11948 1) (12058 1)
+	(connId:0) (12058 1)
 	(connId:1) (5349 0)
 blockId 1029 AND 7 19 ZERO
 	(connId:0) (12378 1)
@@ -897,7 +897,7 @@ blockId 16966 OR 84 32 ONE_EIGHTY_FLIPPED
 	(connId:0) (16340 1) (10707 1)
 	(connId:1) (16455 0)
 blockId 1056 AND 7 28 ZERO
-	(connId:0) (11127 1) (11849 1)
+	(connId:0) (11849 1)
 	(connId:1) (5331 0)
 blockId 16884 OR 86 37 ONE_EIGHTY_FLIPPED
 	(connId:0) (12362 1) (16377 1)
@@ -930,22 +930,22 @@ blockId 3802 AND 9 66 ZERO
 	(connId:0) (4165 1) (11033 1)
 	(connId:1) (12661 0)
 blockId 1081 AND 8 22 ZERO
-	(connId:0) (12062 1) (12265 1)
+	(connId:0) (12265 1)
 	(connId:1) (5312 0)
 blockId 1095 AND 8 26 ZERO
-	(connId:0) (11838 1) (12062 1)
+	(connId:0) (12062 1)
 	(connId:1) (5389 0)
 blockId 1103 AND 8 28 ZERO
-	(connId:0) (11838 1) (11105 1)
+	(connId:0) (11838 1)
 	(connId:1) (5407 0)
 blockId 15358 AND 131 69 ZERO
 	(connId:0) (14958 1) (14309 1)
 	(connId:1) (15357 0)
 blockId 1130 AND 9 20 ZERO
-	(connId:0) (12332 1) (11339 1)
+	(connId:0) (12332 1)
 	(connId:1) (5290 0)
 blockId 1151 AND 9 24 ZERO
-	(connId:0) (11075 1) (10575 1)
+	(connId:0) (10575 1)
 	(connId:1) (5362 0)
 blockId 1155 AND 9 25 ZERO
 	(connId:0) (11339 1)
@@ -972,7 +972,7 @@ blockId 1189 AND 10 21 ZERO
 	(connId:0) (12300 1)
 	(connId:1) (5207 0)
 blockId 1200 AND 10 24 ZERO
-	(connId:0) (12145 1) (11986 1)
+	(connId:0) (12145 1)
 	(connId:1) (5361 0)
 blockId 19846 LIGHT 189 55 ONE_EIGHTY
 	(connId:0) (17566 1)
@@ -983,16 +983,16 @@ blockId 1205 AND 10 25 ZERO
 	(connId:0) (12104 1)
 	(connId:1) (5316 0)
 blockId 1220 AND 10 28 ZERO
-	(connId:0) (11949 1) (11408 1)
+	(connId:0) (11949 1)
 	(connId:1) (5325 0)
 blockId 1237 AND 11 16 ZERO
-	(connId:0) (11399 1) (12459 1)
+	(connId:0) (12459 1)
 	(connId:1) (5226 0)
 blockId 1259 AND 11 25 ZERO
 	(connId:0) (11352 1)
 	(connId:1) (5313 0)
 blockId 1261 AND 11 26 ZERO
-	(connId:0) (11812 1) (12043 1)
+	(connId:0) (12043 1)
 	(connId:1) (5384 0)
 blockId 20054 XOR 198 119 ZERO
 	(connId:0) (19803 1) (21719 1)
@@ -1033,7 +1033,7 @@ blockId 16638 AND 74 43 ONE_EIGHTY
 	(connId:0) (16783 1)
 	(connId:1) (12080 0)
 blockId 1321 AND 12 28 ZERO
-	(connId:0) (11025 1) (11796 1)
+	(connId:0) (11796 1)
 	(connId:1) (5320 0)
 blockId 1328 AND 12 29 ZERO
 	(connId:0) (11025 1)
@@ -1042,7 +1042,7 @@ blockId 1330 AND 12 30 ZERO
 	(connId:0) (10657 1)
 	(connId:1) (5416 0)
 blockId 1359 AND 13 24 ZERO
-	(connId:0) (10977 1) (11455 1)
+	(connId:0) (10977 1)
 	(connId:1) (5356 0)
 blockId 15102 XOR 100 74 ZERO
 	(connId:0) (14374 1) (14497 1) (14421 1) (15121 1) (14678 1) (14795 1) (15264 1) (14419 1) (14703 1) (14438 1) (14409 1) (15202 1) (14485 1) (14346 1) (14718 1) (15062 1) (15328 1) (14491 1) (14537 1) (15169 1) (14318 1) (15451 1) (15206 1) (14724 1) (15059 1) (14552 1) (14404 1) (15338 1) (14520 1) (15018 1) (14411 1) (15173 1) (14528 1) (14390 1) (14530 1) (14529 1) (15070 1) (14384 1) (14462 1) (14448 1) (15066 1) (14452 1) (14799 1) (15491 1) (15458 1) (14713 1) (15113 1) (14375 1) (14352 1) (14459 1) (15254 1) (15052 1) (15124 1)
@@ -1051,7 +1051,7 @@ blockId 1376 AND 13 27 ZERO
 	(connId:0) (11455 1)
 	(connId:1) (5400 0)
 blockId 1378 AND 13 28 ZERO
-	(connId:0) (10730 1) (11414 1)
+	(connId:0) (10730 1)
 	(connId:1) (5318 0)
 blockId 1383 AND 13 29 ZERO
 	(connId:0) (11414 1)
@@ -1069,7 +1069,7 @@ blockId 17301 OR 36 58 ZERO
 	(connId:0) (17297 1)
 	(connId:1) (17305 0)
 blockId 1399 AND 14 18 ZERO
-	(connId:0) (10983 1) (10801 1)
+	(connId:0) (10801 1)
 	(connId:1) (5256 0)
 blockId 20066 LIGHT 203 26 ONE_EIGHTY
 	(connId:0) (17597 1)
@@ -1077,10 +1077,10 @@ blockId 17309 OR 38 58 ZERO
 	(connId:0) (17305 1)
 	(connId:1) (17234 0)
 blockId 1407 AND 14 24 ZERO
-	(connId:0) (10983 1) (11462 1)
+	(connId:0) (10983 1)
 	(connId:1) (5355 0)
 blockId 1414 AND 14 26 ZERO
-	(connId:0) (10743 1) (10944 1)
+	(connId:0) (10944 1)
 	(connId:1) (5376 0)
 blockId 1420 AND 14 27 ZERO
 	(connId:0) (11462 1)
@@ -3703,7 +3703,7 @@ blockId 5290 AND 26 20 ZERO_FLIPPED
 	(connId:1) (9391 0)
 blockId 12019 AND 1 43 ONE_EIGHTY
 	(connId:0) (10963 1)
-	(connId:1) (707 0) (884 0) (4330 0) (3726 0)
+	(connId:1) (707 0) (4330 0) (3726 0)
 blockId 5362 AND 26 24 ZERO_FLIPPED
 	(connId:0) (1151 1)
 	(connId:1) (9077 0)
@@ -4502,7 +4502,7 @@ blockId 9042 AND 45 29 ZERO
 	(connId:1) (9033 0)
 blockId 11981 AND -1 40 ONE_EIGHTY
 	(connId:0) (11730 1)
-	(connId:1) (601 0) (4454 0) (11 0) (4334 0)
+	(connId:1) (601 0) (4454 0) (4334 0)
 blockId 9251 AND 52 15 ZERO_FLIPPED
 	(connId:0) (9341 1)
 	(connId:1) (9927 0)
@@ -4535,7 +4535,7 @@ blockId 9047 AND 44 29 ZERO
 	(connId:1) (9138 0)
 blockId 11462 AND 14 44 ONE_EIGHTY
 	(connId:0) (11571 1)
-	(connId:1) (4340 0) (1420 0) (1407 0) (4145 0)
+	(connId:1) (4340 0) (1420 0) (4145 0)
 blockId 9764 AND 91 30 ZERO_FLIPPED
 	(connId:0) (9796 1)
 	(connId:1) (9667 0)
@@ -4631,7 +4631,7 @@ blockId 9063 AND 57 29 ZERO_FLIPPED
 	(connId:1) (10069 0)
 blockId 11414 AND 13 46 ONE_EIGHTY
 	(connId:0) (11519 1)
-	(connId:1) (1378 0) (4350 0) (4677 0) (1383 0)
+	(connId:1) (4350 0) (4677 0) (1383 0)
 blockId 9064 AND 41 25 ZERO
 	(connId:0) (5358 1)
 	(connId:1) (9347 0)
@@ -5278,7 +5278,7 @@ blockId 9179 AND 34 19 ZERO
 	(connId:1) (9342 0)
 blockId 11944 AND 4 41 ONE_EIGHTY
 	(connId:0) (10667 1)
-	(connId:1) (4318 0) (970 0) (958 0) (3217 0)
+	(connId:1) (4318 0) (970 0) (3217 0)
 blockId 11570 AND 63 36 ONE_EIGHTY_FLIPPED
 	(connId:0) (16532 1)
 	(connId:1) (11461 0)
@@ -5452,7 +5452,7 @@ blockId 9213 AND 46 18 ZERO
 	(connId:1) (9489 0)
 blockId 11842 AND 5 45 ONE_EIGHTY
 	(connId:0) (10800 1)
-	(connId:1) (996 0) (793 0) (3465 0) (3766 0)
+	(connId:1) (793 0) (3465 0) (3766 0)
 blockId 9214 AND 37 28 ZERO
 	(connId:0) (5408 1)
 	(connId:1) (9104 0)
@@ -5626,7 +5626,7 @@ blockId 9254 AND 51 15 ZERO_FLIPPED
 	(connId:1) (9934 0)
 blockId 11969 AND 0 40 ONE_EIGHTY
 	(connId:0) (11736 1)
-	(connId:1) (640 0) (44 0) (4467 0) (4331 0)
+	(connId:1) (640 0) (4467 0) (4331 0)
 blockId 9255 AND 43 17 ZERO
 	(connId:0) (5217 1)
 	(connId:1) (9500 0)
@@ -5701,7 +5701,7 @@ blockId 9270 AND 55 20 ZERO_FLIPPED
 	(connId:1) (9742 0)
 blockId 11985 AND 6 44 ONE_EIGHTY
 	(connId:0) (11522 1)
-	(connId:1) (4394 0) (241 0) (4558 0) (484 0)
+	(connId:1) (4394 0) (4558 0) (484 0)
 blockId 9271 AND 39 16 ZERO
 	(connId:0) (5189 1)
 	(connId:1) (9206 0)
@@ -6357,7 +6357,7 @@ blockId 9413 AND 36 21 ZERO
 	(connId:1) (9463 0)
 blockId 11812 AND 11 45 ONE_EIGHTY
 	(connId:0) (10845 1)
-	(connId:1) (1261 0) (345 0) (1271 0) (4364 0)
+	(connId:1) (345 0) (1271 0) (4364 0)
 blockId 9414 AND 59 23 ZERO_FLIPPED
 	(connId:0) (9187 1)
 	(connId:1) (10358 0)
@@ -6441,7 +6441,7 @@ blockId 9430 AND 40 18 ZERO
 	(connId:1) (9132 0)
 blockId 11175 AND 7 44 ONE_EIGHTY
 	(connId:0) (11528 1)
-	(connId:1) (1044 0) (4387 0) (4580 0) (338 0)
+	(connId:1) (4387 0) (4580 0) (338 0)
 blockId 9431 AND 47 16 ZERO
 	(connId:0) (5219 1)
 	(connId:1) (9504 0)
@@ -6519,7 +6519,7 @@ blockId 9446 AND 42 16 ZERO
 	(connId:1) (9509 0)
 blockId 11127 AND 7 46 ONE_EIGHTY
 	(connId:0) (11478 1)
-	(connId:1) (359 0) (1056 0) (4389 0) (3784 0)
+	(connId:1) (359 0) (4389 0) (3784 0)
 blockId 9447 AND 50 22 ZERO_FLIPPED
 	(connId:0) (9018 1)
 	(connId:1) (9729 0)
@@ -7622,7 +7622,7 @@ blockId 10328 AND 129 23 ZERO_FLIPPED
 	(connId:1) (12251 0)
 blockId 11042 AND 3 44 ONE_EIGHTY
 	(connId:0) (11501 1)
-	(connId:1) (4412 0) (935 0) (4513 0) (755 0)
+	(connId:1) (4412 0) (4513 0) (755 0)
 blockId 9676 AND 115 28 ZERO
 	(connId:0) (10111 1)
 	(connId:1) (9553 0)
@@ -8009,7 +8009,7 @@ blockId 9783 AND 82 30 ZERO
 	(connId:1) (9728 0)
 blockId 10662 AND 4 45 ONE_EIGHTY
 	(connId:0) (10792 1)
-	(connId:1) (4527 0) (86 0) (780 0) (4406 0)
+	(connId:1) (4527 0) (780 0) (4406 0)
 blockId 11482 AND 41 42 ONE_EIGHTY
 	(connId:0) (12122 1)
 	(connId:1) (11733 0)
@@ -8357,13 +8357,13 @@ blockId 9925 AND 94 25 ZERO_FLIPPED
 	(connId:1) (10194 0)
 blockId 11300 AND 3 42 ONE_EIGHTY
 	(connId:0) (11714 1)
-	(connId:1) (4323 0) (52 0) (4511 0) (442 0)
+	(connId:1) (4323 0) (52 0) (4511 0)
 blockId 9926 AND 85 19 ZERO_FLIPPED
 	(connId:0) (10020 1)
 	(connId:1) (10483 0)
 blockId 10583 AND 12 41 ONE_EIGHTY
 	(connId:0) (10728 1)
-	(connId:1) (4171 0) (1300 0) (777 0) (4657 0)
+	(connId:1) (4171 0) (777 0) (4657 0)
 blockId 11304 AND 17 37 ONE_EIGHTY_FLIPPED
 	(connId:0) (11975 1)
 	(connId:1) (12337 0)
@@ -8501,7 +8501,7 @@ blockId 9974 AND 109 27 ZERO
 	(connId:1) (10163 0)
 blockId 10567 AND 11 41 ONE_EIGHTY
 	(connId:0) (10716 1)
-	(connId:1) (4644 0) (3920 0) (1242 0) (1249 0)
+	(connId:1) (4644 0) (3920 0) (1249 0)
 blockId 9978 AND 69 21 ZERO
 	(connId:0) (9465 1)
 	(connId:1) (9873 0)
@@ -8543,7 +8543,7 @@ blockId 9992 AND 74 19 ZERO
 	(connId:1) (9885 0)
 blockId 10939 AND 13 43 ONE_EIGHTY
 	(connId:0) (10680 1)
-	(connId:1) (387 0) (1366 0) (4675 0) (4287 0)
+	(connId:1) (1366 0) (4675 0) (4287 0)
 blockId 9994 AND 98 29 ZERO_FLIPPED
 	(connId:0) (10047 1)
 	(connId:1) (9890 0)
@@ -9535,7 +9535,7 @@ blockId 10285 AND 112 20 ZERO
 	(connId:1) (9555 0)
 blockId 11100 AND 0 44 ONE_EIGHTY
 	(connId:0) (11480 1)
-	(connId:1) (641 0) (4469 0) (3773 0) (856 0)
+	(connId:1) (4469 0) (3773 0) (856 0)
 blockId 11976 AND 130 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10100 1)
 	(connId:1) (11305 0)
@@ -9670,7 +9670,7 @@ blockId 10316 AND 77 25 ZERO
 	(connId:1) (9925 0)
 blockId 11775 AND -1 41 ONE_EIGHTY
 	(connId:0) (10994 1)
-	(connId:1) (30 0) (3713 0) (608 0) (4131 0)
+	(connId:1) (3713 0) (608 0) (4131 0)
 blockId 10317 AND 124 21 ZERO_FLIPPED
 	(connId:0) (10422 1)
 	(connId:1) (10556 0)
@@ -9703,7 +9703,7 @@ blockId 10323 AND 127 24 ZERO_FLIPPED
 	(connId:1) (11292 0)
 blockId 12226 AND 14 32 ONE_EIGHTY
 	(connId:0) (12513 1)
-	(connId:1) (1389 0) (3492 0) (4679 0)
+	(connId:1) (3492 0) (4679 0) (1389 0)
 blockId 10324 AND 126 24 ZERO_FLIPPED
 	(connId:0) (9607 1)
 	(connId:1) (11285 0)
@@ -9712,7 +9712,7 @@ blockId 11719 AND 21 42 ONE_EIGHTY_FLIPPED
 	(connId:1) (11281 0)
 blockId 11045 AND 11 46 ONE_EIGHTY
 	(connId:0) (11505 1)
-	(connId:1) (4648 0) (4365 0) (1271 0) (898 0)
+	(connId:1) (4648 0) (4365 0) (898 0)
 blockId 10325 AND 131 23 ZERO_FLIPPED
 	(connId:0) (9845 1)
 	(connId:1) (12253 0)
@@ -9748,7 +9748,7 @@ blockId 10334 AND 126 23 ZERO_FLIPPED
 	(connId:1) (12248 0)
 blockId 11721 AND 14 40 ONE_EIGHTY
 	(connId:0) (11467 1)
-	(connId:1) (909 0) (1406 0) (4686 0) (4281 0)
+	(connId:1) (1406 0) (4686 0) (4281 0)
 blockId 10335 AND 90 23 ZERO_FLIPPED
 	(connId:0) (10045 1)
 	(connId:1) (9887 0)
@@ -9802,13 +9802,13 @@ blockId 10348 AND 81 23 ZERO
 	(connId:1) (9946 0)
 blockId 11679 AND 14 42 ONE_EIGHTY
 	(connId:0) (11424 1)
-	(connId:1) (4283 0) (410 0) (851 0) (4609 0)
+	(connId:1) (4283 0) (851 0) (4609 0)
 blockId 10349 AND 128 19 ZERO_FLIPPED
 	(connId:0) (10477 1)
 	(connId:1) (11831 0)
 blockId 11164 AND 5 44 ONE_EIGHTY
 	(connId:0) (11515 1)
-	(connId:1) (990 0) (791 0) (3980 0) (4543 0)
+	(connId:1) (791 0) (3980 0) (4543 0)
 blockId 10350 AND 80 23 ZERO
 	(connId:0) (9402 1)
 	(connId:1) (9952 0)
@@ -9898,7 +9898,7 @@ blockId 10368 AND 119 22 ZERO_FLIPPED
 	(connId:1) (11089 0)
 blockId 11025 AND 12 46 ONE_EIGHTY
 	(connId:0) (11512 1)
-	(connId:1) (1321 0) (1328 0) (3956 0) (4662 0)
+	(connId:1) (1328 0) (3956 0) (4662 0)
 blockId 10369 AND 102 18 ZERO
 	(connId:0) (9806 1)
 	(connId:1) (9705 0)
@@ -9931,7 +9931,7 @@ blockId 10376 AND 113 22 ZERO
 	(connId:1) (10245 0)
 blockId 11033 AND 9 46 ONE_EIGHTY
 	(connId:0) (11491 1)
-	(connId:1) (1172 0) (1169 0) (3802 0) (3361 0)
+	(connId:1) (1172 0) (3802 0) (3361 0)
 blockId 10377 AND 95 18 ZERO_FLIPPED
 	(connId:0) (10148 1)
 	(connId:1) (9743 0)
@@ -9960,7 +9960,7 @@ blockId 10384 AND 108 22 ZERO
 	(connId:1) (10261 0)
 blockId 11105 AND 8 46 ONE_EIGHTY
 	(connId:0) (11484 1)
-	(connId:1) (1113 0) (1103 0) (4597 0) (4382 0)
+	(connId:1) (1113 0) (4597 0) (4382 0)
 blockId 10385 AND 105 22 ZERO
 	(connId:0) (9586 1)
 	(connId:1) (10362 0)
@@ -9993,7 +9993,7 @@ blockId 10392 AND 107 17 ZERO
 	(connId:1) (10507 0)
 blockId 11113 AND 5 46 ONE_EIGHTY
 	(connId:0) (11466 1)
-	(connId:1) (793 0) (4401 0) (4544 0) (688 0)
+	(connId:1) (4401 0) (4544 0) (688 0)
 blockId 10393 AND 123 21 ZERO_FLIPPED
 	(connId:0) (10423 1)
 	(connId:1) (11792 0)
@@ -10136,13 +10136,13 @@ blockId 10426 AND 103 21 ZERO
 	(connId:1) (10399 0)
 blockId 12043 AND 11 43 ONE_EIGHTY
 	(connId:0) (11019 1)
-	(connId:1) (1261 0) (4647 0) (4154 0) (308 0)
+	(connId:1) (1261 0) (4647 0) (4154 0)
 blockId 10428 AND 101 21 ZERO
 	(connId:0) (9883 1)
 	(connId:1) (10403 0)
 blockId 11021 AND 4 44 ONE_EIGHTY
 	(connId:0) (11508 1)
-	(connId:1) (778 0) (4526 0) (563 0) (970 0)
+	(connId:1) (778 0) (4526 0) (563 0)
 blockId 10430 AND 97 21 ZERO_FLIPPED
 	(connId:0) (9910 1)
 	(connId:1) (10409 0)
@@ -10259,7 +10259,7 @@ blockId 11684 AND 47 34 ONE_EIGHTY
 	(connId:1) (11859 0)
 blockId 11838 AND 8 45 ONE_EIGHTY
 	(connId:0) (10822 1)
-	(connId:1) (1095 0) (4381 0) (1103 0) (4596 0)
+	(connId:1) (4381 0) (1103 0) (4596 0)
 blockId 10456 AND 110 20 ZERO
 	(connId:0) (10467 1)
 	(connId:1) (9770 0)
@@ -10376,7 +10376,7 @@ blockId 10482 AND 103 19 ZERO
 	(connId:1) (10471 0)
 blockId 12099 AND 7 42 ONE_EIGHTY
 	(connId:0) (11733 1)
-	(connId:1) (4220 0) (245 0) (298 0) (4576 0)
+	(connId:1) (4220 0) (298 0) (4576 0)
 blockId 10483 AND 102 19 ZERO
 	(connId:0) (9926 1)
 	(connId:1) (10472 0)
@@ -10463,7 +10463,7 @@ blockId 10508 AND 133 16 ZERO_FLIPPED
 	(connId:1) (11131 0)
 blockId 11455 AND 13 44 ONE_EIGHTY
 	(connId:0) (11565 1)
-	(connId:1) (1359 0) (1376 0) (4676 0) (4349 0)
+	(connId:1) (1376 0) (4676 0) (4349 0)
 blockId 10509 AND 132 16 ZERO_FLIPPED
 	(connId:0) (10107 1)
 	(connId:1) (11124 0)
@@ -10499,7 +10499,7 @@ blockId 10516 AND 125 16 ZERO_FLIPPED
 	(connId:1) (11067 0)
 blockId 11399 AND 11 40 ONE_EIGHTY
 	(connId:0) (11447 1)
-	(connId:1) (1237 0) (4643 0) (4292 0) (1247 0)
+	(connId:1) (4643 0) (4292 0) (1247 0)
 blockId 10517 AND 124 16 ZERO_FLIPPED
 	(connId:0) (10435 1)
 	(connId:1) (12178 0)
@@ -10535,7 +10535,7 @@ blockId 10524 AND 127 15 ZERO_FLIPPED
 	(connId:1) (12594 0)
 blockId 11407 AND 2 44 ONE_EIGHTY
 	(connId:0) (11494 1)
-	(connId:1) (728 0) (4498 0) (4419 0) (759 0)
+	(connId:1) (4498 0) (4419 0) (759 0)
 blockId 10525 AND 126 15 ZERO_FLIPPED
 	(connId:0) (10533 1)
 	(connId:1) (10628 0)
@@ -10601,7 +10601,7 @@ blockId 10540 AND 102 15 ZERO
 	(connId:1) (10005 0)
 blockId 11359 AND 0 42 ONE_EIGHTY
 	(connId:0) (11696 1)
-	(connId:1) (663 0) (3865 0) (4332 0) (846 0)
+	(connId:1) (663 0) (3865 0) (4332 0)
 blockId 12239 AND 21 32 ONE_EIGHTY_FLIPPED
 	(connId:0) (12519 1)
 	(connId:1) (11133 0)
@@ -10664,7 +10664,7 @@ blockId 13493 JUNCTION -37 157 ZERO
 	(connId:1) (13077 0) (13509 0)
 blockId 10555 AND 7 41 ONE_EIGHTY
 	(connId:0) (10690 1)
-	(connId:1) (1044 0) (4575 0) (162 0) (4308 0)
+	(connId:1) (1044 0) (4575 0) (4308 0)
 blockId 11946 AND 37 38 ONE_EIGHTY
 	(connId:0) (11465 1)
 	(connId:1) (11895 0)
@@ -10706,7 +10706,7 @@ blockId 12018 AND 22 36 ONE_EIGHTY_FLIPPED
 	(connId:1) (12375 0)
 blockId 10564 AND 8 41 ONE_EIGHTY
 	(connId:0) (10700 1)
-	(connId:1) (195 0) (920 0) (4592 0) (4156 0)
+	(connId:1) (920 0) (4592 0) (4156 0)
 blockId 11511 AND 61 38 ONE_EIGHTY_FLIPPED
 	(connId:0) (16562 1)
 	(connId:1) (12311 0)
@@ -10742,7 +10742,7 @@ blockId 11513 AND 38 40 ONE_EIGHTY
 	(connId:1) (11409 0)
 blockId 10575 AND 9 41 ONE_EIGHTY
 	(connId:0) (10710 1)
-	(connId:1) (226 0) (1151 0) (4301 0) (4611 0)
+	(connId:1) (1151 0) (4301 0) (4611 0)
 blockId 10576 AND 126 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (10505 1)
 	(connId:1) (11914 0)
@@ -10754,7 +10754,7 @@ blockId 11302 AND 33 33 ONE_EIGHTY
 	(connId:1) (10872 0)
 blockId 10944 AND 14 43 ONE_EIGHTY
 	(connId:0) (10687 1)
-	(connId:1) (1414 0) (4284 0) (426 0) (4688 0)
+	(connId:1) (1414 0) (4284 0) (4688 0)
 blockId 11970 AND 129 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10101 1)
 	(connId:1) (11298 0)
@@ -10886,7 +10886,7 @@ blockId 10984 AND 62 45 ONE_EIGHTY_FLIPPED
 	(connId:1) (10920 0)
 blockId 10618 AND -1 45 ONE_EIGHTY
 	(connId:0) (10750 1)
-	(connId:1) (4093 0) (833 0) (627 0) (4458 0)
+	(connId:1) (4093 0) (833 0) (4458 0)
 blockId 13557 JUNCTION -15 172 ZERO
 	(connId:0) (12874 1)
 	(connId:1) (13544 0) (13152 0)
@@ -10919,7 +10919,7 @@ blockId 14062 OR 92 194 ZERO
 	(connId:1) (15540 0)
 blockId 10624 AND 0 45 ONE_EIGHTY
 	(connId:0) (10763 1)
-	(connId:1) (671 0) (4470 0) (681 0) (4435 0)
+	(connId:1) (4470 0) (681 0) (4435 0)
 blockId 10769 AND 52 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (16665 1)
 	(connId:1) (10897 0)
@@ -10949,7 +10949,7 @@ blockId 10632 AND 102 42 ONE_EIGHTY
 	(connId:1) (16805 0)
 blockId 10633 AND 1 45 ONE_EIGHTY
 	(connId:0) (10776 1)
-	(connId:1) (707 0) (694 0) (4483 0) (4103 0)
+	(connId:1) (694 0) (4483 0) (4103 0)
 blockId 11294 AND 23 39 ONE_EIGHTY_FLIPPED
 	(connId:0) (12272 1)
 	(connId:1) (12263 0)
@@ -10991,7 +10991,7 @@ blockId 10643 AND 27 47 ONE_EIGHTY_FLIPPED
 	(connId:1) (10645 0)
 blockId 10644 AND 2 45 ONE_EIGHTY
 	(connId:0) (10639 1)
-	(connId:1) (4499 0) (739 0) (4420 0) (912 0)
+	(connId:1) (4499 0) (4420 0) (912 0)
 blockId 10853 AND 29 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10925 1)
 	(connId:1) (11796 0)
@@ -11024,7 +11024,7 @@ blockId 11883 AND 18 38 ONE_EIGHTY_FLIPPED
 	(connId:1) (12285 0)
 blockId 10652 AND 3 45 ONE_EIGHTY
 	(connId:0) (10784 1)
-	(connId:1) (47 0) (4413 0) (762 0) (4514 0)
+	(connId:1) (4413 0) (762 0) (4514 0)
 blockId 10861 AND 22 35 ONE_EIGHTY_FLIPPED
 	(connId:0) (12403 1)
 	(connId:1) (11996 0)
@@ -11048,7 +11048,7 @@ blockId 13360 AND 7 79 ZERO
 	(connId:1) (13610 0)
 blockId 11986 AND 10 44 ONE_EIGHTY
 	(connId:0) (11547 1)
-	(connId:1) (4634 0) (1200 0) (1216 0) (4369 0)
+	(connId:1) (4634 0) (1216 0) (4369 0)
 blockId 10660 AND 133 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (10498 1)
 	(connId:1) (11940 0)
@@ -11141,7 +11141,7 @@ blockId 10682 AND 14 47 ONE_EIGHTY
 	(connId:1) (112 0) (4691 0) (4343 0)
 blockId 11787 AND 5 41 ONE_EIGHTY
 	(connId:0) (10677 1)
-	(connId:1) (990 0) (4113 0) (4314 0) (150 0)
+	(connId:1) (990 0) (4113 0) (4314 0)
 blockId 10684 AND 23 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (10813 1)
 	(connId:1) (12144 0)
@@ -11171,7 +11171,7 @@ blockId 10689 AND 56 33 ONE_EIGHTY_FLIPPED
 	(connId:1) (12478 0)
 blockId 11350 AND 3 40 ONE_EIGHTY
 	(connId:0) (11754 1)
-	(connId:1) (921 0) (4509 0) (4321 0) (14 0)
+	(connId:1) (4509 0) (4321 0) (14 0)
 blockId 10690 AND 24 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (10820 1)
 	(connId:1) (10555 0)
@@ -11272,7 +11272,7 @@ blockId 11438 AND 34 42 ONE_EIGHTY
 	(connId:1) (11696 0)
 blockId 12093 AND 5 42 ONE_EIGHTY
 	(connId:0) (11724 1)
-	(connId:1) (4540 0) (4315 0) (533 0) (143 0)
+	(connId:1) (4540 0) (4315 0) (143 0)
 blockId 10719 AND 36 43 ONE_EIGHTY
 	(connId:0) (12073 1)
 	(connId:1) (10968 0)
@@ -11290,7 +11290,7 @@ blockId 10721 AND 20 47 ONE_EIGHTY_FLIPPED
 	(connId:1) (10574 0)
 blockId 11382 AND 12 40 ONE_EIGHTY
 	(connId:0) (11453 1)
-	(connId:1) (4288 0) (834 0) (1306 0) (4016 0)
+	(connId:1) (4288 0) (1306 0) (4016 0)
 blockId 10722 AND 63 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (16612 1)
 	(connId:1) (12147 0)
@@ -11323,7 +11323,7 @@ blockId 11390 AND 30 37 ONE_EIGHTY_FLIPPED
 	(connId:1) (11278 0)
 blockId 10730 AND 13 45 ONE_EIGHTY
 	(connId:0) (10860 1)
-	(connId:1) (1366 0) (3988 0) (3412 0) (1378 0)
+	(connId:1) (3988 0) (3412 0) (1378 0)
 blockId 11899 AND 21 38 ONE_EIGHTY_FLIPPED
 	(connId:0) (12305 1)
 	(connId:1) (12290 0)
@@ -11368,7 +11368,7 @@ blockId 13434 AND 7 168 ZERO
 	(connId:1) (13639 0)
 blockId 10743 AND 14 45 ONE_EIGHTY
 	(connId:0) (10867 1)
-	(connId:1) (1414 0) (1423 0) (4541 0) (4341 0)
+	(connId:1) (1423 0) (4541 0) (4341 0)
 blockId 11332 AND 125 47 ONE_EIGHTY_FLIPPED
 	(connId:0) (9552 1)
 	(connId:1) (11214 0)
@@ -11422,7 +11422,7 @@ blockId 14211 AND 6 262 ZERO
 	(connId:1) (14058 0)
 blockId 12167 AND 8 40 ONE_EIGHTY
 	(connId:0) (11431 1)
-	(connId:1) (183 0) (1085 0) (4305 0) (4591 0)
+	(connId:1) (1085 0) (4305 0) (4591 0)
 blockId 10774 AND 34 41 ONE_EIGHTY
 	(connId:0) (12152 1)
 	(connId:1) (10999 0)
@@ -11485,7 +11485,7 @@ blockId 10796 AND 29 47 ONE_EIGHTY_FLIPPED
 	(connId:1) (10657 0)
 blockId 12127 AND 1 41 ONE_EIGHTY
 	(connId:0) (11005 1)
-	(connId:1) (4481 0) (692 0) (4328 0) (92 0)
+	(connId:1) (4481 0) (692 0) (4328 0)
 blockId 11464 AND 38 42 ONE_EIGHTY
 	(connId:0) (12117 1)
 	(connId:1) (11719 0)
@@ -11620,7 +11620,7 @@ blockId 10854 AND 21 35 ONE_EIGHTY_FLIPPED
 	(connId:1) (11794 0)
 blockId 12177 AND 7 40 ONE_EIGHTY
 	(connId:0) (11426 1)
-	(connId:1) (4574 0) (1041 0) (142 0) (4307 0)
+	(connId:1) (4574 0) (1041 0) (4307 0)
 blockId 22501 XOR 233 149 ZERO
 	(connId:0) (22890 1) (21719 1)
 	(connId:1) (22464 0)
@@ -11632,7 +11632,7 @@ blockId 10859 AND 62 37 ONE_EIGHTY_FLIPPED
 	(connId:1) (10729 0)
 blockId 11674 AND 13 42 ONE_EIGHTY
 	(connId:0) (11418 1)
-	(connId:1) (93 0) (375 0) (4673 0) (4286 0)
+	(connId:1) (93 0) (4673 0) (4286 0)
 blockId 10860 AND 30 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10723 1)
 	(connId:1) (10730 0)
@@ -11721,7 +11721,7 @@ blockId 10889 AND 34 45 ONE_EIGHTY
 	(connId:1) (10763 0)
 blockId 12062 AND 8 43 ONE_EIGHTY
 	(connId:0) (11002 1)
-	(connId:1) (1081 0) (1095 0) (4593 0) (4306 0)
+	(connId:1) (1095 0) (4593 0) (4306 0)
 blockId 10890 AND 26 35 ONE_EIGHTY_FLIPPED
 	(connId:0) (12407 1)
 	(connId:1) (11825 0)
@@ -11736,7 +11736,7 @@ blockId 10895 AND 115 41 ONE_EIGHTY
 	(connId:1) (16808 0)
 blockId 12060 AND 7 43 ONE_EIGHTY
 	(connId:0) (10997 1)
-	(connId:1) (353 0) (4309 0) (4577 0) (66 0)
+	(connId:1) (353 0) (4309 0) (4577 0)
 blockId 10897 AND 35 45 ONE_EIGHTY
 	(connId:0) (10769 1)
 	(connId:1) (10776 0)
@@ -11760,7 +11760,7 @@ blockId 10903 AND 116 41 ONE_EIGHTY
 	(connId:1) (16807 0)
 blockId 12132 AND 3 41 ONE_EIGHTY
 	(connId:0) (11016 1)
-	(connId:1) (935 0) (4322 0) (927 0) (4510 0)
+	(connId:1) (935 0) (4322 0) (4510 0)
 blockId 10905 AND 36 45 ONE_EIGHTY
 	(connId:0) (10937 1)
 	(connId:1) (10639 0)
@@ -11807,13 +11807,13 @@ blockId 10935 AND 58 47 ONE_EIGHTY_FLIPPED
 	(connId:1) (10886 0)
 blockId 12036 AND 12 43 ONE_EIGHTY
 	(connId:0) (10670 1)
-	(connId:1) (356 0) (4088 0) (4291 0) (781 0)
+	(connId:1) (4088 0) (4291 0) (781 0)
 blockId 10937 AND 53 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (16666 1)
 	(connId:1) (10905 0)
 blockId 12046 AND 0 43 ONE_EIGHTY
 	(connId:0) (10958 1)
-	(connId:1) (671 0) (4333 0) (631 0) (4468 0)
+	(connId:1) (671 0) (4333 0) (4468 0)
 blockId 10938 AND 45 35 ONE_EIGHTY
 	(connId:0) (10679 1)
 	(connId:1) (10906 0)
@@ -11918,7 +11918,7 @@ blockId 12204 AND 60 40 ONE_EIGHTY_FLIPPED
 	(connId:1) (11545 0)
 blockId 10977 AND 13 41 ONE_EIGHTY
 	(connId:0) (10741 1)
-	(connId:1) (1359 0) (4285 0) (4672 0) (1350 0)
+	(connId:1) (1359 0) (4285 0) (4672 0)
 blockId 12150 AND 102 34 ONE_EIGHTY
 	(connId:0) (16985 1) (12130 1)
 	(connId:1) (16933 0)
@@ -11936,7 +11936,7 @@ blockId 14192 OR -1 264 ZERO
 	(connId:1) (14155 0)
 blockId 10983 AND 14 41 ONE_EIGHTY
 	(connId:0) (10607 1)
-	(connId:1) (1399 0) (1407 0) (4282 0) (4687 0)
+	(connId:1) (1407 0) (4282 0) (4687 0)
 blockId 12148 AND 47 41 ONE_EIGHTY
 	(connId:0) (10735 1)
 	(connId:1) (10741 0)
@@ -11969,7 +11969,7 @@ blockId 10993 AND 48 33 ONE_EIGHTY
 	(connId:1) (11291 0)
 blockId 12102 AND 2 42 ONE_EIGHTY
 	(connId:0) (11707 1)
-	(connId:1) (4325 0) (900 0) (735 0) (4495 0)
+	(connId:1) (4325 0) (735 0) (4495 0)
 blockId 10994 AND 16 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (10762 1)
 	(connId:1) (11775 0)
@@ -12044,7 +12044,7 @@ blockId 11911 AND 123 46 ONE_EIGHTY_FLIPPED
 	(connId:1) (11843 0)
 blockId 11030 AND 1 44 ONE_EIGHTY
 	(connId:0) (11487 1)
-	(connId:1) (888 0) (692 0) (3833 0) (4482 0)
+	(connId:1) (888 0) (3833 0) (4482 0)
 blockId 11905 AND 120 46 ONE_EIGHTY_FLIPPED
 	(connId:0) (9860 1)
 	(connId:1) (11830 0)
@@ -12080,7 +12080,7 @@ blockId 11046 AND 128 35 ONE_EIGHTY_FLIPPED
 	(connId:1) (11345 0)
 blockId 11050 AND 0 46 ONE_EIGHTY
 	(connId:0) (11435 1)
-	(connId:1) (4172 0) (681 0) (4436 0) (861 0)
+	(connId:1) (4172 0) (4436 0) (861 0)
 blockId 12757 OR -44 43 ZERO
 	(connId:0) (4749 1)
 	(connId:1) (13970 0)
@@ -12122,13 +12122,13 @@ blockId 11728 AND 23 42 ONE_EIGHTY_FLIPPED
 	(connId:1) (12103 0)
 blockId 11062 AND -1 46 ONE_EIGHTY
 	(connId:0) (11430 1)
-	(connId:1) (4443 0) (833 0) (398 0) (3709 0)
+	(connId:1) (4443 0) (398 0) (3709 0)
 blockId 11937 AND 115 34 ONE_EIGHTY
 	(connId:0) (16998 1) (11776 1)
 	(connId:1) (16920 0)
 blockId 11066 AND 12 44 ONE_EIGHTY
 	(connId:0) (11560 1)
-	(connId:1) (785 0) (4660 0) (777 0) (3475 0)
+	(connId:1) (785 0) (4660 0) (3475 0)
 blockId 14005 AND 23 224 ZERO
 	(connId:0) (13725 1) (14017 1)
 	(connId:1) (14063 0)
@@ -12158,7 +12158,7 @@ blockId 11072 AND 101 43 ONE_EIGHTY
 	(connId:1) (16790 0)
 blockId 11075 AND 9 44 ONE_EIGHTY
 	(connId:0) (11541 1)
-	(connId:1) (1151 0) (4375 0) (4616 0) (1164 0)
+	(connId:1) (4375 0) (4616 0) (1164 0)
 blockId 11506 AND 37 40 ONE_EIGHTY
 	(connId:0) (12193 1)
 	(connId:1) (11754 0)
@@ -12173,7 +12173,7 @@ blockId 11078 AND 110 37 ONE_EIGHTY
 	(connId:1) (16877 0)
 blockId 12017 AND 4 43 ONE_EIGHTY
 	(connId:0) (10980 1)
-	(connId:1) (4320 0) (86 0) (514 0) (4525 0)
+	(connId:1) (4320 0) (86 0) (4525 0)
 blockId 11082 AND 1 34 ONE_EIGHTY
 	(connId:0) (11542 1)
 	(connId:1) (81 0) (4472 0) (4274 0)
@@ -12194,7 +12194,7 @@ blockId 12025 AND 120 44 ONE_EIGHTY_FLIPPED
 	(connId:1) (11991 0)
 blockId 11091 AND 11 44 ONE_EIGHTY
 	(connId:0) (11554 1)
-	(connId:1) (4363 0) (3818 0) (1249 0) (1268 0)
+	(connId:1) (4363 0) (3818 0) (1268 0)
 blockId 11458 AND 53 38 ONE_EIGHTY_FLIPPED
 	(connId:0) (16554 1)
 	(connId:1) (11942 0)
@@ -12257,7 +12257,7 @@ blockId 14051 OR 68 161 ZERO
 	(connId:1) (14067 0)
 blockId 11123 AND -1 44 ONE_EIGHTY
 	(connId:0) (11474 1)
-	(connId:1) (407 0) (608 0) (4442 0) (4457 0)
+	(connId:1) (407 0) (4442 0) (4457 0)
 blockId 11490 AND 58 38 ONE_EIGHTY_FLIPPED
 	(connId:0) (16559 1)
 	(connId:1) (12308 0)
@@ -12311,7 +12311,7 @@ blockId 11143 AND 9 34 ONE_EIGHTY
 	(connId:1) (866 0) (220 0) (4250 0)
 blockId 11796 AND 12 45 ONE_EIGHTY
 	(connId:0) (10853 1)
-	(connId:1) (1321 0) (4661 0) (4357 0) (781 0)
+	(connId:1) (1321 0) (4661 0) (4357 0)
 blockId 11145 AND 103 41 ONE_EIGHTY
 	(connId:0) (16986 1) (11238 1)
 	(connId:1) (16820 0)
@@ -12347,7 +12347,7 @@ blockId 11155 AND 11 34 ONE_EIGHTY
 	(connId:1) (788 0) (4244 0) (2662 0)
 blockId 11157 AND 8 44 ONE_EIGHTY
 	(connId:0) (11534 1)
-	(connId:1) (920 0) (1102 0) (4594 0) (1279 0)
+	(connId:1) (1102 0) (4594 0) (1279 0)
 blockId 13850 XOR 21 217 ZERO
 	(connId:0) (13872 1) (13868 1) (13870 1) (13859 1) (13874 1) (13873 1) (13853 1) (13862 1) (13856 1) (13875 1) (13876 1) (13871 1) (13878 1) (13865 1)
 	(connId:1) (13998 0)
@@ -12545,7 +12545,7 @@ blockId 11231 AND 119 41 ONE_EIGHTY_FLIPPED
 	(connId:1) (11138 0)
 blockId 11948 AND 6 45 ONE_EIGHTY
 	(connId:0) (10808 1)
-	(connId:1) (1025 0) (808 0) (4560 0) (4143 0)
+	(connId:1) (808 0) (4560 0) (4143 0)
 blockId 11233 AND 39 45 ONE_EIGHTY
 	(connId:0) (10951 1)
 	(connId:1) (10800 0)
@@ -12601,7 +12601,7 @@ blockId 11250 AND 17 39 ONE_EIGHTY_FLIPPED
 	(connId:1) (12257 0)
 blockId 11331 AND 12 42 ONE_EIGHTY
 	(connId:0) (11412 1)
-	(connId:1) (328 0) (4289 0) (4659 0) (1312 0)
+	(connId:1) (4289 0) (4659 0) (1312 0)
 blockId 11251 AND 113 47 ONE_EIGHTY
 	(connId:0) (11368 1) (16996 1)
 	(connId:1) (16714 0)
@@ -12628,7 +12628,7 @@ blockId 11258 AND 18 39 ONE_EIGHTY_FLIPPED
 	(connId:1) (12258 0)
 blockId 11339 AND 9 42 ONE_EIGHTY
 	(connId:0) (11743 1)
-	(connId:1) (1155 0) (1130 0) (4302 0) (4612 0)
+	(connId:1) (1155 0) (4302 0) (4612 0)
 blockId 11263 AND 43 45 ONE_EIGHTY
 	(connId:0) (10971 1)
 	(connId:1) (10830 0)
@@ -12664,7 +12664,7 @@ blockId 11280 AND 21 39 ONE_EIGHTY_FLIPPED
 	(connId:1) (12261 0)
 blockId 11281 AND 4 42 ONE_EIGHTY
 	(connId:0) (11719 1)
-	(connId:1) (4524 0) (479 0) (4319 0) (132 0)
+	(connId:1) (4524 0) (4319 0) (132 0)
 blockId 12160 AND 57 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (16606 1)
 	(connId:1) (10813 0)
@@ -12682,7 +12682,7 @@ blockId 11288 AND 22 39 ONE_EIGHTY_FLIPPED
 	(connId:1) (12262 0)
 blockId 11289 AND 1 42 ONE_EIGHTY
 	(connId:0) (11701 1)
-	(connId:1) (701 0) (4329 0) (4089 0) (874 0)
+	(connId:1) (701 0) (4329 0) (4089 0)
 blockId 12168 AND 121 33 ONE_EIGHTY_FLIPPED
 	(connId:0) (9735 1)
 	(connId:1) (11659 0)
@@ -12748,7 +12748,7 @@ blockId 14041 OR 48 146 ZERO
 	(connId:1) (14042 0)
 blockId 11327 AND 4 40 ONE_EIGHTY
 	(connId:0) (11409 1)
-	(connId:1) (3887 0) (4317 0) (946 0) (964 0)
+	(connId:1) (3887 0) (4317 0) (964 0)
 blockId 11329 AND 133 41 ONE_EIGHTY_FLIPPED
 	(connId:0) (10225 1)
 	(connId:1) (10903 0)
@@ -12763,7 +12763,7 @@ blockId 11333 AND 109 35 ONE_EIGHTY
 	(connId:1) (16910 0)
 blockId 11336 AND 1 40 ONE_EIGHTY
 	(connId:0) (11741 1)
-	(connId:1) (74 0) (690 0) (4480 0) (4327 0)
+	(connId:1) (690 0) (4480 0) (4327 0)
 blockId 11337 AND 118 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (9659 1)
 	(connId:1) (11952 0)
@@ -12793,7 +12793,7 @@ blockId 12228 AND 111 40 ONE_EIGHTY
 	(connId:1) (16828 0)
 blockId 11352 AND 11 42 ONE_EIGHTY
 	(connId:0) (11757 1)
-	(connId:1) (285 0) (4646 0) (1259 0) (4293 0)
+	(connId:1) (4646 0) (1259 0) (4293 0)
 blockId 12073 AND 53 43 ONE_EIGHTY_FLIPPED
 	(connId:0) (16634 1)
 	(connId:1) (10719 0)
@@ -12820,7 +12820,7 @@ blockId 11365 AND 114 35 ONE_EIGHTY
 	(connId:1) (16905 0)
 blockId 12180 AND 2 40 ONE_EIGHTY
 	(connId:0) (11747 1)
-	(connId:1) (725 0) (4324 0) (115 0) (4494 0)
+	(connId:1) (725 0) (4324 0) (4494 0)
 blockId 11368 AND 130 47 ONE_EIGHTY_FLIPPED
 	(connId:0) (9542 1)
 	(connId:1) (11251 0)
@@ -12853,7 +12853,7 @@ blockId 12771 JUNCTION -46 54 ZERO
 	(connId:1) (12766 0)
 blockId 11377 AND -1 42 ONE_EIGHTY
 	(connId:0) (11690 1)
-	(connId:1) (821 0) (620 0) (3704 0) (4020 0)
+	(connId:1) (620 0) (3704 0) (4020 0)
 blockId 12256 AND -1 39 ONE_EIGHTY
 	(connId:0) (11242 1)
 	(connId:1) (535 0) (4441 0) (4452 0)
@@ -12874,7 +12874,7 @@ blockId 12264 AND 7 39 ONE_EIGHTY
 	(connId:1) (4386 0) (4571 0) (66 0)
 blockId 11386 AND 4 46 ONE_EIGHTY
 	(connId:0) (11459 1)
-	(connId:1) (786 0) (780 0) (4407 0) (4175 0)
+	(connId:1) (786 0) (4407 0) (4175 0)
 blockId 11389 AND 133 47 ONE_EIGHTY_FLIPPED
 	(connId:0) (9528 1)
 	(connId:1) (11275 0)
@@ -12883,7 +12883,7 @@ blockId 12268 AND 11 39 ONE_EIGHTY
 	(connId:1) (4362 0) (4642 0) (308 0)
 blockId 11391 AND 9 40 ONE_EIGHTY
 	(connId:0) (11436 1)
-	(connId:1) (4610 0) (211 0) (967 0) (4300 0)
+	(connId:1) (4610 0) (967 0) (4300 0)
 blockId 13294 AND 4 210 ZERO
 	(connId:0) (13312 1) (13304 1) (13302 1) (13328 1) (13315 1) (13356 1) (13298 1) (13331 1) (13346 1) (13351 1) (13293 1) (13285 1) (13284 1) (13309 1) (13322 1)
 	(connId:1) (13292 0)
@@ -12895,25 +12895,25 @@ blockId 12049 AND 130 44 ONE_EIGHTY_FLIPPED
 	(connId:1) (12009 0)
 blockId 11395 AND 1 46 ONE_EIGHTY
 	(connId:0) (11440 1)
-	(connId:1) (893 0) (694 0) (4427 0) (4485 0)
+	(connId:1) (893 0) (4427 0) (4485 0)
 blockId 11396 AND 118 35 ONE_EIGHTY_FLIPPED
 	(connId:0) (9711 1)
 	(connId:1) (11625 0)
 blockId 12053 AND -1 43 ONE_EIGHTY
 	(connId:0) (10953 1)
-	(connId:1) (535 0) (4455 0) (4335 0) (627 0)
+	(connId:1) (4455 0) (4335 0) (627 0)
 blockId 11398 AND 2 46 ONE_EIGHTY
 	(connId:0) (11446 1)
-	(connId:1) (4421 0) (915 0) (3925 0) (912 0)
+	(connId:1) (4421 0) (915 0) (3925 0)
 blockId 11400 AND 128 45 ONE_EIGHTY_FLIPPED
 	(connId:0) (10102 1)
 	(connId:1) (11293 0)
 blockId 12057 AND 5 43 ONE_EIGHTY
 	(connId:0) (10986 1)
-	(connId:1) (996 0) (4542 0) (4316 0) (550 0)
+	(connId:1) (996 0) (4542 0) (4316 0)
 blockId 11403 AND 3 46 ONE_EIGHTY
 	(connId:0) (11452 1)
-	(connId:1) (429 0) (4414 0) (4515 0) (762 0)
+	(connId:1) (429 0) (4414 0) (4515 0)
 blockId 11404 AND 120 35 ONE_EIGHTY_FLIPPED
 	(connId:0) (9699 1)
 	(connId:1) (12424 0)
@@ -12922,13 +12922,13 @@ blockId 12061 AND 41 36 ONE_EIGHTY
 	(connId:1) (12023 0)
 blockId 11406 AND 6 46 ONE_EIGHTY
 	(connId:0) (11472 1)
-	(connId:1) (808 0) (4395 0) (810 0) (4182 0)
+	(connId:1) (4395 0) (810 0) (4182 0)
 blockId 13087 JUNCTION 5 154 ZERO
 	(connId:0) (13077 1)
 	(connId:1) (13415 0)
 blockId 11408 AND 10 46 ONE_EIGHTY
 	(connId:0) (11498 1)
-	(connId:1) (1220 0) (3348 0) (4635 0) (1224 0)
+	(connId:1) (3348 0) (4635 0) (1224 0)
 blockId 20832 LIGHT 216 50 ONE_EIGHTY
 	(connId:0) (17701 1)
 blockId 11411 AND 61 34 ONE_EIGHTY_FLIPPED
@@ -12951,7 +12951,7 @@ blockId 11419 AND 46 38 ONE_EIGHTY
 	(connId:1) (11916 0)
 blockId 11420 AND 14 46 ONE_EIGHTY
 	(connId:0) (11525 1)
-	(connId:1) (1426 0) (1423 0) (4690 0) (3942 0)
+	(connId:1) (1426 0) (4690 0) (3942 0)
 blockId 12141 AND 124 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (10507 1)
 	(connId:1) (12471 0)
@@ -12972,7 +12972,7 @@ blockId 12244 AND 122 40 ONE_EIGHTY_FLIPPED
 	(connId:1) (10620 0)
 blockId 12089 AND 8 42 ONE_EIGHTY
 	(connId:0) (11739 1)
-	(connId:1) (4078 0) (4124 0) (1075 0) (924 0)
+	(connId:1) (4078 0) (4124 0) (924 0)
 blockId 12252 AND 130 40 ONE_EIGHTY_FLIPPED
 	(connId:0) (10327 1)
 	(connId:1) (12232 0)
@@ -13056,7 +13056,7 @@ blockId 11486 AND 50 36 ONE_EIGHTY_FLIPPED
 	(connId:1) (12045 0)
 blockId 12145 AND 10 41 ONE_EIGHTY
 	(connId:0) (10593 1)
-	(connId:1) (4296 0) (263 0) (1200 0) (4631 0)
+	(connId:1) (4296 0) (1200 0) (4631 0)
 blockId 11491 AND 26 46 ONE_EIGHTY_FLIPPED
 	(connId:0) (11597 1)
 	(connId:1) (11033 0)
@@ -13248,7 +13248,7 @@ blockId 11593 AND 35 44 ONE_EIGHTY
 	(connId:1) (11487 0)
 blockId 12024 AND 3 43 ONE_EIGHTY
 	(connId:0) (10974 1)
-	(connId:1) (4157 0) (464 0) (47 0) (4512 0)
+	(connId:1) (4157 0) (47 0) (4512 0)
 blockId 11597 AND 43 46 ONE_EIGHTY
 	(connId:0) (11669 1)
 	(connId:1) (11491 0)
@@ -13458,7 +13458,7 @@ blockId 13089 JUNCTION 5 156 ZERO
 	(connId:1) (13413 0)
 blockId 11716 AND 13 40 ONE_EIGHTY
 	(connId:0) (11460 1)
-	(connId:1) (1358 0) (4059 0) (1341 0) (4671 0)
+	(connId:1) (1358 0) (4059 0) (4671 0)
 blockId 11861 AND 14 38 ONE_EIGHTY
 	(connId:0) (11924 1)
 	(connId:1) (3528 0) (4684 0) (423 0)
@@ -13496,7 +13496,7 @@ blockId 12378 AND 7 36 ONE_EIGHTY
 	(connId:1) (4384 0) (4567 0) (1029 0)
 blockId 11949 AND 10 45 ONE_EIGHTY
 	(connId:0) (10837 1)
-	(connId:1) (1210 0) (1220 0) (3564 0) (4370 0)
+	(connId:1) (1220 0) (3564 0) (4370 0)
 blockId 11742 AND 58 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (16495 1)
 	(connId:1) (12432 0)
@@ -13538,7 +13538,7 @@ blockId 11757 AND 28 42 ONE_EIGHTY_FLIPPED
 	(connId:1) (11352 0)
 blockId 11763 AND 0 41 ONE_EIGHTY
 	(connId:0) (10999 1)
-	(connId:1) (641 0) (2809 0) (3455 0) (60 0)
+	(connId:1) (641 0) (2809 0) (3455 0)
 blockId 11764 AND 129 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (10502 1)
 	(connId:1) (11926 0)
@@ -13550,7 +13550,7 @@ blockId 11768 AND 130 34 ONE_EIGHTY_FLIPPED
 	(connId:1) (11929 0)
 blockId 11849 AND 7 45 ONE_EIGHTY
 	(connId:0) (10815 1)
-	(connId:1) (1056 0) (353 0) (4388 0) (4166 0)
+	(connId:1) (1056 0) (4388 0) (4166 0)
 blockId 11772 AND 131 34 ONE_EIGHTY_FLIPPED
 	(connId:0) (10500 1)
 	(connId:1) (11933 0)
@@ -13571,7 +13571,7 @@ blockId 11799 AND 118 36 ONE_EIGHTY_FLIPPED
 	(connId:1) (10972 0)
 blockId 11802 AND 9 45 ONE_EIGHTY
 	(connId:0) (10830 1)
-	(connId:1) (4169 0) (1159 0) (1169 0) (4198 0)
+	(connId:1) (4169 0) (1169 0) (4198 0)
 blockId 11807 AND 127 38 ONE_EIGHTY_FLIPPED
 	(connId:0) (10311 1)
 	(connId:1) (10578 0)
@@ -13733,7 +13733,7 @@ blockId 12022 AND 119 44 ONE_EIGHTY_FLIPPED
 	(connId:1) (11990 0)
 blockId 12039 AND 9 43 ONE_EIGHTY
 	(connId:0) (11007 1)
-	(connId:1) (1139 0) (4613 0) (1159 0) (4303 0)
+	(connId:1) (4613 0) (1159 0) (4303 0)
 blockId 12040 AND 126 44 ONE_EIGHTY_FLIPPED
 	(connId:0) (10163 1)
 	(connId:1) (12002 0)
@@ -13745,19 +13745,19 @@ blockId 12050 AND 35 36 ONE_EIGHTY
 	(connId:1) (12010 0)
 blockId 12055 AND 2 43 ONE_EIGHTY
 	(connId:0) (10968 1)
-	(connId:1) (906 0) (739 0) (4326 0) (4497 0)
+	(connId:1) (739 0) (4326 0) (4497 0)
 blockId 12056 AND 42 36 ONE_EIGHTY
 	(connId:0) (11546 1)
 	(connId:1) (12026 0)
 blockId 12058 AND 6 43 ONE_EIGHTY
 	(connId:0) (10991 1)
-	(connId:1) (1025 0) (586 0) (4312 0) (4557 0)
+	(connId:1) (1025 0) (4312 0) (4557 0)
 blockId 12949 JUNCTION -26 78 ZERO
 	(connId:0) (12786 1)
 	(connId:1) (13030 0) (13010 0)
 blockId 12063 AND 10 43 ONE_EIGHTY
 	(connId:0) (11013 1)
-	(connId:1) (1210 0) (4298 0) (3574 0) (1003 0)
+	(connId:1) (1210 0) (4298 0) (3574 0)
 blockId 12430 AND 39 34 ONE_EIGHTY
 	(connId:0) (11732 1)
 	(connId:1) (11566 0)
@@ -13787,10 +13787,10 @@ blockId 12098 AND 44 39 ONE_EIGHTY
 	(connId:1) (11318 0)
 blockId 12103 AND 6 42 ONE_EIGHTY
 	(connId:0) (11728 1)
-	(connId:1) (1018 0) (571 0) (3928 0) (4071 0)
+	(connId:1) (1018 0) (3928 0) (4071 0)
 blockId 12104 AND 10 42 ONE_EIGHTY
 	(connId:0) (11750 1)
-	(connId:1) (1205 0) (803 0) (4297 0) (4632 0)
+	(connId:1) (1205 0) (4297 0) (4632 0)
 blockId 12106 AND 45 42 ONE_EIGHTY
 	(connId:0) (11607 1)
 	(connId:1) (11757 0)
@@ -13811,10 +13811,10 @@ blockId 20638 XOR 201 121 ZERO
 	(connId:1) (20638 0) (20965 0) (29265 0)
 blockId 12143 AND 2 41 ONE_EIGHTY
 	(connId:0) (11010 1)
-	(connId:1) (127 0) (3417 0) (3938 0) (728 0)
+	(connId:1) (3417 0) (3938 0) (728 0)
 blockId 12144 AND 6 41 ONE_EIGHTY
 	(connId:0) (10684 1)
-	(connId:1) (4129 0) (1012 0) (241 0) (4311 0)
+	(connId:1) (4129 0) (241 0) (4311 0)
 blockId 13027 JUNCTION -25 111 ZERO
 	(connId:0) (13011 1)
 	(connId:1) (13062 0) (13239 0)
@@ -13847,7 +13847,7 @@ blockId 12166 AND 41 37 ONE_EIGHTY
 	(connId:1) (11349 0)
 blockId 12171 AND 5 40 ONE_EIGHTY
 	(connId:0) (11415 1)
-	(connId:1) (158 0) (4313 0) (4539 0) (987 0)
+	(connId:1) (4313 0) (4539 0) (987 0)
 blockId 12174 AND 123 33 ONE_EIGHTY_FLIPPED
 	(connId:0) (9724 1)
 	(connId:1) (12374 0)
@@ -13856,13 +13856,13 @@ blockId 12319 AND 4 37 ONE_EIGHTY
 	(connId:1) (4521 0) (479 0) (422 0)
 blockId 12181 AND 6 40 ONE_EIGHTY
 	(connId:0) (11421 1)
-	(connId:1) (203 0) (1015 0) (4556 0) (4310 0)
+	(connId:1) (1015 0) (4556 0) (4310 0)
 blockId 12826 JUNCTION -48 73 ZERO
 	(connId:0) (4685 0)
 	(connId:1) (4702 0)
 blockId 12182 AND 10 40 ONE_EIGHTY
 	(connId:0) (11441 1)
-	(connId:1) (4630 0) (1196 0) (4295 0) (249 0)
+	(connId:1) (4630 0) (1196 0) (4295 0)
 blockId 12187 AND 47 40 ONE_EIGHTY
 	(connId:0) (11642 1)
 	(connId:1) (11460 0)
